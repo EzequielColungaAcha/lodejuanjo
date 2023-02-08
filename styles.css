@@ -386,6 +386,9 @@ article.menu-card.text-font-bitter {
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
+.si-print {
+  display: none;
+}
 
 @media only screen and (min-width: 1441px) {
   #page {
@@ -436,6 +439,11 @@ article.menu-card.text-font-bitter {
     font-size: 0.7em;
   }
 }
+@media only screen and (max-width: 400px) {
+  #links a {
+    font-size: 0.7rem;
+  }
+}
 @media print {
   body {
     margin: 0 !important;
@@ -447,6 +455,10 @@ article.menu-card.text-font-bitter {
     visibility: hidden !important;
     height: 0 !important;
     overflow: hidden;
+  }
+  .si-print {
+    display: flex;
+    justify-content: center;
   }
   .menu-card-content {
     padding-top: 0 !important;
@@ -496,6 +508,8 @@ article.menu-card.text-font-bitter {
     display: table-footer-group;
   }
 }
+
+
 
 /* #menu-card {
   background-color: var(--background-custom-color);
