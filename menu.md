@@ -1,4 +1,4 @@
-<div id="links" style="display: flex; justify-content: space-around;">
+<div id="links" class="no-print" style="display: flex; justify-content: space-around;">
 <a href="#especiales" style="text-decoration: none; color: black; cursor: pointer; border-bottom: 1px solid; width: fit-content;">Platos del día</a>
 <a href="#entradas" style="text-decoration: none; color: black; cursor: pointer; border-bottom: 1px solid; width: fit-content;">Entradas</a>
 <a href="#principales" style="text-decoration: none; color: black; cursor: pointer; border-bottom: 1px solid; width: fit-content;">Principales</a>
@@ -46,6 +46,8 @@ Lo de Juanjo
 
 ==============================================================================
 
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+
  Principales: <span id="principales"></span>
  ------------
 
@@ -77,6 +79,8 @@ Lo de Juanjo
 ---
 
 ==============================================================================
+
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
 
  Bebidas: <span id="bebidas"></span>
  --------
@@ -120,6 +124,8 @@ Lo de Juanjo
 
 =================================================================
 
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+
  Postres: <span id="postres"></span>
  --------
 
@@ -141,6 +147,8 @@ Lo de Juanjo
 ---
 
 =================================================================
+
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
 
  Vinos: <span id="vinos"></span>
  -----
@@ -187,6 +195,8 @@ Lo de Juanjo
 
 ===
 
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+
  **Bodega RUTINI**
 
  - *TRUMPETER MALBEC 750cc* | $3800
@@ -222,6 +232,6 @@ Lo de Juanjo
 
 ===
 
-  <footer>
+  <footer class="no-print">
   <small><a href="#top" style="text-decoration: none; color: black; cursor: pointer;">Lo de Juanjo @ 2023 | Menú QR hecho por Ezequiel Colunga Acha</a></small>
   </footer>
