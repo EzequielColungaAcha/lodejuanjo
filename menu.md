@@ -233,5 +233,5 @@ Lo de Juanjo
 ===
 
   <footer class="no-print">
-  <small><a href="https://www.instagram.com/ezzielfawst/" style="text-decoration: none; color: black; cursor: pointer;">Lo de Juanjo @ 2023 | Menú QR hecho por Ezequiel Colunga Acha</a></small>
+  <small><a href="https://www.instagram.com/ezzielfawst/" target="_blank" style="text-decoration: none; color: black; cursor: pointer;">Lo de Juanjo @ 2023 | Menú QR hecho por Ezequiel Colunga Acha</a></small>
   </footer>
