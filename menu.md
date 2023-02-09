@@ -11,7 +11,7 @@
 Lo de Juanjo
 =============
 
-
+<div class="hidden">
  Platos del día: <span id="especiales"></span>
  ----------
 
@@ -21,6 +21,8 @@ Lo de Juanjo
  - *Pollo al champigñon con papas* | $1700
 
 ---
+
+</div>
 
  Entradas: <span id="entradas"></span>
  ---------
@@ -144,6 +146,12 @@ Lo de Juanjo
  - *Panqueques de manzana al ron* | $700
  - *Parfait de whisky* <small>(crema con praliné de frutos rojos)</small> | $700
  - *Volcán de chocolate* <small>(con helado de americana)</small> | $900
+
+ **Helados:**
+
+ - *Almendrado* <small>(con crocante)</small> | $700
+ - *Bombón suizo* | $700
+ - *Bombón escocés* <small>(con centro de dulce de leche)</small> | $700
 
 ---
 
