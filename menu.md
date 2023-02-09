@@ -88,8 +88,9 @@ Lo de Juanjo
 
  **Gaseosas:** 
 
- - *Botella de 500cc* <small>(Línea Coca-Cola)</small> | $330
- - *Botella de 1,5lts* <small>(Línea Coca-Cola)</small> | $600
+ - *Botella de 1,5lts* <small>(Línea Coca-Cola)</small> | $660
+ - *Botella de 1lt* <small>(Línea Coca-Cola)</small> | $450
+ - *Botella de 500cc* <small>(Línea Coca-Cola)</small> | $360
 
 
  **Agua:**
