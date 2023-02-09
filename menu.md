@@ -48,7 +48,7 @@ Lo de Juanjo
 
 ==============================================================================
 
-<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1>
 
  Principales: <span id="principales"></span>
  ------------
@@ -82,7 +82,7 @@ Lo de Juanjo
 
 ==============================================================================
 
-<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1>
 
  Bebidas: <span id="bebidas"></span>
  --------
@@ -127,7 +127,7 @@ Lo de Juanjo
 
 =================================================================
 
-<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1>
 
  Postres: <span id="postres"></span>
  --------
@@ -157,7 +157,7 @@ Lo de Juanjo
 
 =================================================================
 
-<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1>
 
  Vinos: <span id="vinos"></span>
  -----
