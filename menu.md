@@ -75,7 +75,6 @@ Lo de Juanjo
  - *Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $2500
  - *Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $2500
  - *Pollo al verdeo* <small>(con papas españolas)</small> | $1900
- - *Salmón rosado con arroz y vegetales* <small>(con salsa de eneldo)</small> | $4000
 
 ---
 
