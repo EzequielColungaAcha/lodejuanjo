@@ -64,8 +64,7 @@ Lo de Juanjo
 
  - *Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1600
  - *Ñoquis de papas y hierbas* <small>(con salsa cuatro quesos)</small> | $1600
- - *Ravioles negros de salmón rosado* <small>(con crema de azafrán y limón)</small> | $3300
- - *Sorrentinos de ricota, jamón crudo y rúcula* <small>(con salsa crema de vegetales)</small> | $1600
+ - *Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1600
  - *Tallarines de espinaca* <small>(con crema de pollo al curry)</small> | $1600
 
 
@@ -134,12 +133,10 @@ Lo de Juanjo
 
 
  - *Brownie noche y día* <small>(con dos cremosos de chocolate blanco y negro)</small> | $900
- - *Crema de chocolate blanco y lima caliente con frutos rojos y americana* | $900
  - *Curd de maracuyá* <small>(con merenguitos de limón, chantilly y frutos rojos)</small> | $800
  - *Espuma de limón* <small>(con frutos rojos)</small> | $700
  - *Flan casero* | $500
  - *Marquise de chocolate* <small>(con helado de maracuyá)</small> | $900
- - *Mouse de dulce de leche* | $800
  - *Mouse de mandarina* <small>(con crocante de coco)</small> | $700
  - *Mouse de sambayón* <small>(con chantilly, frutos rojos y nueces)</small> | $700
  - *Omelette de norvégiene* <small>(helado de americana cubierto de merengue horneado)</small> | $800
