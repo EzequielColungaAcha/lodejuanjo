@@ -47,7 +47,7 @@ Lo de Juanjo
 ---
 
 <div style="display: flex; justify-content: center;">
-<img src="plate.jpg" width="700px"/>
+<img src="plate.jpg" width="80%"/>
 </div>
 
 ==============================================================================
