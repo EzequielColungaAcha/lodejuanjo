@@ -30,21 +30,25 @@ Lo de Juanjo
 
  **Frías:**
 
- - *Bruschetta de berenjena* <small>(Focaccia, jamón crudo, berenjena y rúcula)</small> | $1100
- - *Mozzarella tibia* <small>(con jamón crudo y hojas verdes)</small> | $1100
- - *Paté a la naranja* <small>(con ensalada cítrica)</small> | $1000
+ - <br class="si-print"> *Bruschetta de berenjena* <small>(Focaccia, jamón crudo, berenjena y rúcula)</small> | $1100
+ - <br class="si-print">*Mozzarella tibia* <small>(con jamón crudo y hojas verdes)</small> | $1200
+ - <br class="si-print">*Paté a la naranja* <small>(con ensalada cítrica)</small> | $1100
+
+
 
 
  **Calientes:**
 
- - *Empanada de carne* | $350
- - *Filete de pollo al estilo thai* <small>(con guacamole)</small> | $1100
- - *Milanesa de mozzarella* | $1100
- - *Polenta grillada* <small>(con hongos a la provenzal)</small> | $1200
- - *Provoleta* <small>(con tomates secos y rúcula)</small> | $1100
- - *Salchichas Franckfurt* <small>(con ensalada de papas)</small> | $1100
+ - <br class="si-print">*Empanada de carne* | $350
+ - <br class="si-print">*Filete de pollo al estilo thai* <small>(con guacamole)</small> | $1100
+ - <br class="si-print">*Milanesa de mozzarella* | $1100
+ - <br class="si-print">*Salchichas Franckfurt* <small>(con ensalada de papas)</small> | $1100
 
 ---
+
+<div style="display: flex; justify-content: center;">
+<img src="plate.jpg" width="700px"/>
+</div>
 
 ==============================================================================
 
@@ -56,25 +60,29 @@ Lo de Juanjo
 
  **Minutas:**
 
- - *Milanesa con papas fritas* | $1500
- - *Suprema con papas fritas* | $1600
+ - <br class="si-print">*Milanesa con papas fritas* | $1500
+ - <br class="si-print">*Suprema con papas fritas* | $1600
+
+
 
 
  **Pastas:** 
 
- - *Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1600
- - *Ñoquis de papas y hierbas* <small>(con salsa cuatro quesos)</small> | $1600
- - *Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1600
- - *Tallarines de espinaca* <small>(con crema de pollo al curry)</small> | $1600
+ - <br class="si-print">*Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1600
+ - <br class="si-print">*Ñoquis de papas y hierbas* <small>(con salsa cuatro quesos)</small> | $1600
+ - <br class="si-print">*Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1600
+ - <br class="si-print">*Tallarines de espinaca* <small>(con crema de pollo al curry)</small> | $1600
+
+
 
 
  **Carnes:** 
 
- - *Bife de chorizo* <small>(con papas a la provenzal y salsa criolla)</small> | $2500
- - *Carré Tex-Mex* | $2200
- - *Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $2500
- - *Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $2500
- - *Pollo al verdeo* <small>(con papas españolas)</small> | $1900
+ - <br class="si-print">*Bife de chorizo* <small>(con papas a la provenzal y salsa criolla)</small> | $2700
+ - <br class="si-print">*Carré Tex-Mex* | $2200
+ - <br class="si-print">*Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $2700
+ - <br class="si-print">*Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $2700
+ - <br class="si-print">*Pollo al verdeo* <small>(con papas españolas)</small> | $1900
 
 ---
 
@@ -131,23 +139,25 @@ Lo de Juanjo
  --------
 
 
- - *Brownie noche y día* <small>(con dos cremosos de chocolate blanco y negro)</small> | $900
- - *Curd de maracuyá* <small>(con merenguitos de limón, chantilly y frutos rojos)</small> | $800
- - *Espuma de limón* <small>(con frutos rojos)</small> | $700
- - *Flan casero* | $500
- - *Marquise de chocolate* <small>(con helado de maracuyá)</small> | $900
- - *Mouse de mandarina* <small>(con crocante de coco)</small> | $700
- - *Mouse de sambayón* <small>(con chantilly, frutos rojos y nueces)</small> | $700
- - *Omelette de norvégiene* <small>(helado de americana cubierto de merengue horneado)</small> | $800
- - *Panqueques de manzana al ron* | $700
- - *Parfait de whisky* <small>(crema con praliné de frutos rojos)</small> | $700
- - *Volcán de chocolate* <small>(con helado de americana)</small> | $900
+ - <br class="si-print">*Brownie noche y día* <small>(con dos cremosos de chocolate blanco y negro)</small> | $900
+ - <br class="si-print">*Curd de maracuyá* <small>(con merenguitos de limón, chantilly y frutos rojos)</small> | $800
+ - <br class="si-print">*Espuma de limón* <small>(con frutos rojos)</small> | $700
+ - <br class="si-print">*Flan casero* | $500
+ - <br class="si-print">*Marquise de chocolate* <small>(con helado de maracuyá)</small> | $900
+ - <br class="si-print">*Mouse de mandarina* <small>(con crocante de coco)</small> | $700
+ - <br class="si-print">*Mouse de sambayón* <small>(con chantilly, frutos rojos y nueces)</small> | $700
+ - <br class="si-print">*Omelette de norvégiene* <small>(helado de americana cubierto de merengue horneado)</small> | $800
+ - <br class="si-print">*Panqueques de manzana al ron* | $700
+ - <br class="si-print">*Parfait de whisky* <small>(crema con praliné de frutos rojos)</small> | $700
+ - <br class="si-print">*Volcán de chocolate* <small>(con helado de americana)</small> | $900
+
+
 
  **Helados:**
 
- - *Almendrado* <small>(con crocante)</small> | $700
- - *Bombón suizo* | $700
- - *Bombón escocés* <small>(con centro de dulce de leche)</small> | $700
+ - <br class="si-print">*Almendrado* <small>(con crocante)</small> | $700
+ - <br class="si-print">*Bombón suizo* | $700
+ - <br class="si-print">*Bombón escocés* <small>(con centro de dulce de leche)</small> | $700
 
 ---
 
@@ -216,22 +226,22 @@ Lo de Juanjo
 
  **Bodega TRAPICHE**
 
- - *TRAPICHE MALBEC 750cc* | $1150
- - *TRAPICHE CABERNET/SAUVIGNON 750cc* | $1150
- - *TRAPICHE SAUVIGNON BLANCO 750cc* | $1150
- - *TRAPICHE DULCE COCECHA 750cc* | $1150
- - *TRAPICHE DULCE COCECHA ROSADO 750cc* | $1150
- - *FOND DE CAVE MALBEC 750cc* | $2200
- - *FOND DE CAVE CABERNET 750cc* | $2200
+ - *TRAPICHE MALBEC 750cc* | $1300
+ - *TRAPICHE CABERNET/SAUVIGNON 750cc* | $1300
+ - *TRAPICHE SAUVIGNON BLANCO 750cc* | $1300
+ - *TRAPICHE DULCE COCECHA 750cc* | $1300
+ - *TRAPICHE DULCE COCECHA ROSADO 750cc* | $1300
+ - *FOND DE CAVE MALBEC 750cc* | $2600
+ - *FOND DE CAVE CABERNET 750cc* | $2600
 
 
  **Bodega LÓPEZ**
 
- - *LÓPEZ MALBEC 750cc* | $1030
- - *LÓPEZ BLANCO 750cc* | $1030
- - *LÓPEZ CABERNET SAUVIGNON 750cc* | $1030
- - *LÓPEZ MALBEC 375cc* | $770
- - *LÓPEZ BLANCO 375cc* | $660
+ - *LÓPEZ MALBEC 750cc* | $1300
+ - *LÓPEZ BLANCO 750cc* | $1300
+ - *LÓPEZ CABERNET SAUVIGNON 750cc* | $1300
+ - *LÓPEZ MALBEC 375cc* | $930
+ - *LÓPEZ BLANCO 375cc* | $820
 
 ---
 
