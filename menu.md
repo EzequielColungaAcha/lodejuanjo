@@ -95,14 +95,14 @@ Lo de Juanjo
 
 
  **Gaseosas:** 
-
+<br class="si-print">
  - *Botella de 1,5lts* <small>(Línea Coca-Cola)</small> | $660
  - *Botella de 1lt* <small>(Línea Coca-Cola)</small> | $450
  - *Botella de 500cc* <small>(Línea Coca-Cola)</small> | $360
 
 
  **Agua:**
-
+<br class="si-print">
  - *Botella de 500cc* <small>(con o sin gas)</small> | $200
  - *Botella de 2lts* | $300
  - *Levité de 500cc* <small>(pomelo, naranja, manzana, ananá)</small> | $250
@@ -111,21 +111,21 @@ Lo de Juanjo
 
 
  **Cervezas:**
-
+<br class="si-print">
  - *Amstel de 1lt* | $990
  - *Heineken de 1lt* | $1300
  - *Imperial de 1lt* | $1050
 
 
  **Champañas:**
-
+<br class="si-print">
  - *Chandón de 375cc* | $2000
  - *Chandón de 750cc* | $3600
  - *Chandón Rosé de 750cc* | $3600
 
 
  **Sidras:**
-
+<br class="si-print">
  - *Sidra 1888 de 750cc* | $2900
  - *Sidra 1888 Rosé de 750cc* | $2900
 
@@ -150,14 +150,6 @@ Lo de Juanjo
  - <br class="si-print">*Panqueques de manzana al ron* | $700
  - <br class="si-print">*Parfait de whisky* <small>(crema con praliné de frutos rojos)</small> | $700
  - <br class="si-print">*Volcán de chocolate* <small>(con helado de americana)</small> | $900
-
-
-
- **Helados:**
-
- - <br class="si-print">*Almendrado* <small>(con crocante)</small> | $700
- - <br class="si-print">*Bombón suizo* | $700
- - <br class="si-print">*Bombón escocés* <small>(con centro de dulce de leche)</small> | $700
 
 ---
 
@@ -223,6 +215,16 @@ Lo de Juanjo
  - *RUTINI MALBEC 750cc* | $10500
  - *RUTINI CABERNET 750cc* | $10500
 
+---
+
+<br class="si-print"><br class="si-print"><br class="si-print"><br class="si-print"><br class="si-print">
+<div style="display: flex; justify-content: center;">
+<img src="wine.jpg" width="80%"/>
+</div>
+
+===
+
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
 
  **Bodega TRAPICHE**
 
@@ -234,6 +236,16 @@ Lo de Juanjo
  - *FOND DE CAVE MALBEC 750cc* | $2600
  - *FOND DE CAVE CABERNET 750cc* | $2600
 
+---
+
+<br class="si-print"><br class="si-print"><br class="si-print"><br class="si-print"><br class="si-print">
+<div style="display: flex; justify-content: center;">
+<img src="brindis.jpg" width="80%"/>
+</div>
+
+===
+
+<h1 class="si-print"><a name="lo-de-juanjo" class="anchor" href="#lo-de-juanjo"></a>Lo de Juanjo</h1><p class="empty-line"></p>
 
  **Bodega LÓPEZ**
 
@@ -244,6 +256,11 @@ Lo de Juanjo
  - *LÓPEZ BLANCO 375cc* | $820
 
 ---
+
+<br class="si-print"><br class="si-print"><br class="si-print"><br class="si-print">
+<div style="display: flex; justify-content: center;">
+<img src="wineHand.jpg" width="80%"/>
+</div>
 
 ===
 
