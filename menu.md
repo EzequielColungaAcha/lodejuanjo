@@ -30,9 +30,9 @@ Lo de Juanjo
 
  **Frías:**
 
- - <br class="si-print"> *Bruschetta de berenjena* <small>(Focaccia, jamón crudo, berenjena y rúcula)</small> | $1100
- - <br class="si-print">*Mozzarella tibia* <small>(con jamón crudo y hojas verdes)</small> | $1200
- - <br class="si-print">*Paté a la naranja* <small>(con ensalada cítrica)</small> | $1100
+ - <br class="si-print"> *Bruschetta de berenjena* <small>(Focaccia, jamón crudo, berenjena y rúcula)</small> | $1200
+ - <br class="si-print">*Mozzarella tibia* <small>(con jamón crudo y hojas verdes)</small> | $1300
+ - <br class="si-print">*Paté a la naranja* <small>(con ensalada cítrica)</small> | $1200
 
 
 
@@ -40,9 +40,10 @@ Lo de Juanjo
  **Calientes:**
 
  - <br class="si-print">*Empanada de carne* | $350
- - <br class="si-print">*Filete de pollo al estilo thai* <small>(con guacamole)</small> | $1100
- - <br class="si-print">*Milanesa de mozzarella* | $1100
- - <br class="si-print">*Salchichas Franckfurt* <small>(con ensalada de papas)</small> | $1100
+ - <br class="si-print">*Filete de pollo al estilo thai* <small>(con guacamole)</small> | $1200
+ - <br class="si-print">*Milanesa de mozzarella* | $1200
+ - <br class="si-print">*Salchichas Franckfurt* <small>(con ensalada de papas)</small> | $1200
+ - <br class="si-print">*Provoleta* <small>(con tomates secos y rúcula)</small> | $1500
 
 ---
 
@@ -60,29 +61,28 @@ Lo de Juanjo
 
  **Minutas:**
 
- - <br class="si-print">*Milanesa con papas fritas* | $1500
- - <br class="si-print">*Suprema con papas fritas* | $1600
+ - <br class="si-print">*Milanesa con papas fritas* | $1600
+ - <br class="si-print">*Suprema con papas fritas* | $1700
 
 
 
 
  **Pastas:** 
 
- - <br class="si-print">*Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1600
- - <br class="si-print">*Ñoquis de papas y hierbas* <small>(con salsa cuatro quesos)</small> | $1600
- - <br class="si-print">*Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1600
- - <br class="si-print">*Tallarines de espinaca* <small>(con crema de pollo al curry)</small> | $1600
-
+ - <br class="si-print">*Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1700
+ - <br class="si-print">*Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1700
+ - <br class="si-print">*Tallarines negros con mariscos* | $3300
+ - <br class="si-print">*Rigattis con pomodoro y pesto de rúcula* | $2000
 
 
 
  **Carnes:** 
 
- - <br class="si-print">*Bife de chorizo* <small>(con papas a la provenzal y salsa criolla)</small> | $2700
- - <br class="si-print">*Carré Tex-Mex* | $2200
- - <br class="si-print">*Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $2700
- - <br class="si-print">*Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $2700
- - <br class="si-print">*Pollo al verdeo* <small>(con papas españolas)</small> | $1900
+ - <br class="si-print">*Bife de chorizo* <small>(con papas a la provenzal y salsa criolla)</small> | $2800
+ - <br class="si-print">*Carré Tex-Mex* | $2300
+ - <br class="si-print">*Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $2800
+ - <br class="si-print">*Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $2800
+ - <br class="si-print">*Pollo al verdeo* <small>(con papas españolas)</small> | $2000
 
 ---
 
