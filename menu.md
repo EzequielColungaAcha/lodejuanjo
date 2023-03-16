@@ -70,9 +70,9 @@ Lo de Juanjo
  **Pastas:** 
 
  - <br class="si-print">*Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1700
- - <br class="si-print">*Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1700
+ - <br class="si-print">*Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1600
  - <br class="si-print">*Tallarines negros con mariscos* | $3300
- - <br class="si-print">*Rigattis con pomodoro y pesto de rúcula* | $2000
+ - <br class="si-print">*Tallarines de espinaca* <small>(con salsa crema de pollo al curry)</small> | $1600
 
 
 
@@ -82,7 +82,7 @@ Lo de Juanjo
  - <br class="si-print">*Carré Tex-Mex* | $2300
  - <br class="si-print">*Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $2800
  - <br class="si-print">*Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $2800
- - <br class="si-print">*Pollo al verdeo* <small>(con papas españolas)</small> | $2000
+ - <br class="si-print">*Pollo a la crema de limón* <small>(con papas españolas)</small> | $2000
 
 ---
 
@@ -96,25 +96,25 @@ Lo de Juanjo
 
  **Gaseosas:** 
 <br class="si-print">
- - *Botella de 1,5lts* <small>(Línea Coca-Cola)</small> | $660
- - *Botella de 1lt* <small>(Línea Coca-Cola)</small> | $450
- - *Botella de 500cc* <small>(Línea Coca-Cola)</small> | $360
+ - *Botella de 1,5lts* <small>(Línea Coca-Cola)</small> | $850
+ - *Botella de 1lt* <small>(Línea Coca-Cola)</small> | $500
+ - *Botella de 500cc* <small>(Línea Coca-Cola)</small> | $400
 
 
  **Agua:**
 <br class="si-print">
- - *Botella de 500cc* <small>(con o sin gas)</small> | $200
- - *Botella de 2lts* | $300
- - *Levité de 500cc* <small>(pomelo, naranja, manzana, ananá)</small> | $250
- - *Levité de 1,5lts* <small>(pomelo, naranja, manzana, ananá)</small> | $400
- - *Sifón de 1lt* | $350
+ - *Botella de 500cc* <small>(con o sin gas)</small> | $250
+ - *Botella de 2lts* | $330
+ - *Levité de 500cc* <small>(pomelo, naranja, manzana, ananá)</small> | $300
+ - *Levité de 1,5lts* <small>(pomelo, naranja, manzana, ananá)</small> | $520
+ - *Sifón de 1lt* | $400
 
 
  **Cervezas:**
 <br class="si-print">
- - *Amstel de 1lt* | $990
- - *Heineken de 1lt* | $1300
- - *Imperial de 1lt* | $1050
+ - *Amstel de 1lt* | $1100
+ - *Heineken de 1lt* | $1500
+ - *Imperial de 1lt* | $1200
 
 
  **Champañas:**
