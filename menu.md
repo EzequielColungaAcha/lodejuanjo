@@ -69,7 +69,7 @@ Lo de Juanjo
  **Pastas:** 
 
  - <br class="si-print">*Crepes de verdura y ricotta* <small>(con salsa parisienne)</small> | $1900
- - <br class="si-print">*Sorrentinos de ricota y mortadela* <small>(con salsa crema de vegetales)</small> | $1900
+ - <br class="si-print">*Sorrentinos de jamón y queso* <small>(con salsa crema de espinaca)</small> | $1900
  - <br class="si-print">*Tallarines de espinaca* <small>(con salsa crema de pollo al curry)</small> | $1900
 
 
