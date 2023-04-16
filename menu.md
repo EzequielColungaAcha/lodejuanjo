@@ -101,18 +101,19 @@ Lo de Juanjo
 
  **Agua:**
 <br class="si-print">
- - *Botella de 500cc* <small>(con o sin gas)</small> | $250
+ - *Botella de 500cc* <small>(sin gas)</small> | $250
+ - *Botella de 500cc* <small>(con gas)</small> | $280
  - *Botella de 2lts* | $330
- - *Levité de 500cc* <small>(pomelo, naranja, manzana, ananá)</small> | $300
+ - *Levité de 500cc* <small>(pomelo, naranja, manzana, ananá)</small> | $380
  - *Levité de 1,5lts* <small>(pomelo, naranja, manzana, ananá)</small> | $520
  - *Sifón de 1lt* | $400
 
 
  **Cervezas:**
 <br class="si-print">
- - *Amstel de 1lt* | $1100
- - *Heineken de 1lt* | $1500
- - *Imperial de 1lt* | $1200
+ - *Amstel de 1lt* | $1200
+ - *Heineken de 1lt* | $1800
+ - *Imperial de 1lt* | $1300
 
 
  **Champañas:**
@@ -206,7 +207,7 @@ Lo de Juanjo
 
  - *TRUMPETER MALBEC 750cc* | $3800
  - *TRUMPETER SYRAH 750cc* | $3800
- - *TRUMPETER CABERNET SAUVIGNON 750cc* | $3800
+ - *TRUMPETER CABERNET SAUVIGNON 750cc* | $3900
  - *RUTINI CABERNET/SYRAH 750cc* | $6400
  - *RUTINI CABERNET/MERLOT 750cc* | $6400
  - *RUTINI CABERNET/MALBEC 750cc* | $6400
@@ -226,11 +227,11 @@ Lo de Juanjo
 
  **Bodega TRAPICHE**
 
- - *TRAPICHE MALBEC 750cc* | $1300
- - *TRAPICHE CABERNET/SAUVIGNON 750cc* | $1300
- - *TRAPICHE SAUVIGNON BLANCO 750cc* | $1300
- - *TRAPICHE DULCE COCECHA 750cc* | $1300
- - *TRAPICHE DULCE COCECHA ROSADO 750cc* | $1300
+ - *TRAPICHE MALBEC 750cc* | $1500
+ - *TRAPICHE CABERNET/SAUVIGNON 750cc* | $1500
+ - *TRAPICHE SAUVIGNON BLANCO 750cc* | $1500
+ - *TRAPICHE DULCE COCECHA 750cc* | $1500
+ - *TRAPICHE DULCE COCECHA ROSADO 750cc* | $1500
  - *FOND DE CAVE MALBEC 750cc* | $2600
  - *FOND DE CAVE CABERNET 750cc* | $2600
 
@@ -247,11 +248,11 @@ Lo de Juanjo
 
  **Bodega LÓPEZ**
 
- - *LÓPEZ MALBEC 750cc* | $1300
- - *LÓPEZ BLANCO 750cc* | $1300
- - *LÓPEZ CABERNET SAUVIGNON 750cc* | $1300
- - *LÓPEZ MALBEC 375cc* | $930
- - *LÓPEZ BLANCO 375cc* | $820
+ - *LÓPEZ MALBEC 750cc* | $1500
+ - *LÓPEZ BLANCO 750cc* | $1500
+ - *LÓPEZ CABERNET SAUVIGNON 750cc* | $1500
+ - *LÓPEZ MALBEC 375cc* | $1250
+ - *LÓPEZ BLANCO 375cc* | $1150
 
 ---
 
