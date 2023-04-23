@@ -30,9 +30,9 @@ Lo de Juanjo
 
  **Frías:**
 
- - <br class="si-print"> *Bruschetta de berenjena* <small>(Focaccia, jamón crudo, berenjena y rúcula)</small> | $1400
- - <br class="si-print">*Mozzarella tibia* <small>(con jamón crudo y hojas verdes)</small> | $1500
- - <br class="si-print">*Paté a la naranja* <small>(con ensalada cítrica)</small> | $1400
+ - <br class="si-print"> *Bruschetta de berenjena* <small>(Focaccia, jamón crudo, berenjena y rúcula)</small> | $1500
+ - <br class="si-print">*Mozzarella tibia* <small>(con jamón crudo y hojas verdes)</small> | $1700
+ - <br class="si-print">*Paté a la naranja* <small>(con ensalada cítrica)</small> | $1500
 
 
 
@@ -40,9 +40,10 @@ Lo de Juanjo
  **Calientes:**
 
  - <br class="si-print">*Empanada de carne* | $400
- - <br class="si-print">*Filete de pollo al estilo thai* <small>(con guacamole)</small> | $1500
- - <br class="si-print">*Milanesa de mozzarella* | $1400
- - <br class="si-print">*Salchichas Franckfurt* <small>(con ensalada de papas)</small> | $1400
+ - <br class="si-print">*Filete de pollo al estilo thai* <small>(con guacamole)</small> | $1700
+ - <br class="si-print">*Milanesa de mozzarella* | $1500
+ - <br class="si-print">*Salchichas Franckfurt* <small>(con ensalada de papas)</small> | $1500
+ - <br class="si-print">*Polenta grillada con hongos provenzal* | $1800
 
 ---
 
@@ -81,6 +82,7 @@ Lo de Juanjo
  - <br class="si-print">*Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $3100
  - <br class="si-print">*Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $3100
  - <br class="si-print">*Pollo con salsa de verdeo, morrones y hongos* <small>(con papas españolas)</small> | $2200
+ - <br class="si-print">*Salmón rosado con arroz y vegetales* <small>(con salsa de eneldo)</small> | $5500
 
 ---
 
