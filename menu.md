@@ -116,6 +116,7 @@ Lo de Juanjo
  - *Amstel de 1lt* | $1200
  - *Heineken de 1lt* | $1800
  - *Imperial de 1lt* | $1300
+ - *Heineken lata de 355cc sin alcohol* | $660
 
 
  **Champañas:**
