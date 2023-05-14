@@ -78,7 +78,7 @@ Lo de Juanjo
  **Carnes:** 
 
  - <br class="si-print">*Bife de chorizo* <small>(con papas a la provenzal y salsa criolla)</small> | $3100
- - <br class="si-print">*Carré Tex-Mex* | $2600
+ - <br class="si-print">*Lomo al marsala con risotto de calabaza y roquefort* | $2600
  - <br class="si-print">*Lomo al marsala* <small>(con risotto de calabaza y roquefort)</small> | $3100
  - <br class="si-print">*Mollejas* <small>(con papas rosti, ensalada de rúcula y vinagreta de mostaza y miel)</small> | $3100
  - <br class="si-print">*Pollo con salsa de verdeo, morrones y hongos* <small>(con papas españolas)</small> | $2200
